@@ -1,24 +1,7 @@
 ### ✨Hi there✨
 
-<!--
-**shreeyajain/shreeyajain** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Robotics Software Engineer at [GrayMatter Robotics](http://graymatter-robotics.com/), where I help develop smart, easy to use, and rapidly deployable robots for high-mix manufacturing operations. Prior to joining GMR, I obtained my M.S. in Computer Science from Columbia University and an integrated B.E. in Computer Science with M.Sc. in Economics from Birla Institute of Technology and Science, Pilani. At Columbia, I worked as a research assistant advised by [Professor Shuran Song](https://shurans.github.io/) at the [Columbia Artificial Intelligence and Robotics Lab](https://cair.cs.columbia.edu/). I also actively collaborated with [Professor Steven Feiner](http://www.cs.columbia.edu/~feiner/) at the Computer Graphics and User Interfaces Lab.
 
-Here are some ideas to get you started:
+My research interests lie at the intersection of Robotics, Computer Vision, and Computer Graphics. I am broadly interested in developing algorithms that enable intelligent systems to learn from their interactions with the physical world and subsequently, acquire novel & complex skills that can effectively assist humans.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I am a second year Master’s student studying Computer Science at Columbia University. I work as a research assistant, advised by Professor Shuran Song at the Columbia Artificial Intelligence and Robotics Lab. I also actively collaborate with Professor Steven Feiner at the Computer Graphics and User Interfaces Lab.
-
-My current research interests lie at the intersection of Robotics, Computer Vision, and Computer Graphics. I am broadly interested in developing algorithms that enable intelligent systems to learn from their interactions with the physical world and subsequently, acquire novel & complex skills that can effectively assist humans.
-
-Before joining Columbia, I obtained my integrated B.E. in Computer Science and M.Sc. in Economics from Birla Institute of Technology and Science, Pilani.
-
-You can find more details about me at https://shreeyajain.github.io/, or simply reach out to me at shreeya.jain@columbia.edu.
+You can find more details about me at https://shreeyajain.github.io/, or simply reach out to me at shreeya@graymatter-robotics.com.
